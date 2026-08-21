@@ -1,0 +1,28 @@
+name: Test Telegram Connection
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  send-silent-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Send silent connection test
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_TOPIC_ID: ${{ secrets.TELEGRAM_TOPIC_ID }}
+        run: |
+          curl --fail-with-body --silent --show-error \
+            --request POST \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "message_thread_id=${TELEGRAM_TOPIC_ID}" \
+            --data-urlencode "text=✅ اتصال رادار محتوا با موفقیت انجام شد. خبرها از اینجا به‌صورت خودکار و بی‌صدا منتشر می‌شن." \
+            --data-urlencode "disable_notification=true" \
+            --data-urlencode "disable_web_page_preview=true" \
+            >/dev/null
