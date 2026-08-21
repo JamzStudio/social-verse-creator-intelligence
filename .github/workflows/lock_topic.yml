@@ -1,0 +1,34 @@
+name: Lock Radar Topic
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lock-topic:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Close topic to regular members
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_TOPIC_ID: ${{ secrets.TELEGRAM_TOPIC_ID }}
+        run: |
+          curl --fail-with-body --silent --show-error \
+            --request POST \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/closeForumTopic" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "message_thread_id=${TELEGRAM_TOPIC_ID}" \
+            >/dev/null
+
+          curl --fail-with-body --silent --show-error \
+            --request POST \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "message_thread_id=${TELEGRAM_TOPIC_ID}" \
+            --data-urlencode "text=🔒 رادار محتوا قفل شد؛ از این به بعد فقط Bot و ادمین‌های دارای دسترسی مدیریت Topic می‌تونن اینجا پیام بذارن." \
+            --data-urlencode "disable_notification=true" \
+            >/dev/null
