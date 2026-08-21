@@ -1,0 +1,24 @@
+name: Test Gemini Connection
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-gemini:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Test free-tier Gemini access
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          response="$(curl --fail-with-body --silent --show-error \
+            --max-time 45 \
+            --request POST \
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${GEMINI_API_KEY}" \
+            --header "Content-Type: application/json" \
+            --data '{"contents":[{"parts":[{"text":"Return only the word OK"}]}],"generationConfig":{"maxOutputTokens":8}}')"
+          test "$(printf '%s' "$response" | jq -r '.candidates[0].content.parts[0].text // empty')" != ""

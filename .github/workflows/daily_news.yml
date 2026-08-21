@@ -2,6 +2,11 @@ name: Creator Intelligence Daily News
 
 on:
   workflow_dispatch:
+    inputs:
+      max_items:
+        description: Maximum number of news items to publish
+        required: false
+        default: "1"
   schedule:
     # 07:00 UTC (10:30 Tehran during standard time)
     - cron: "0 7 * * *"
@@ -33,6 +38,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
           DRY_RUN: "false"
+          MAX_ITEMS_PER_RUN: ${{ inputs.max_items || '5' }}
           PYTHONPATH: src
         run: python -m social_verse.main
       - name: Persist publication history
