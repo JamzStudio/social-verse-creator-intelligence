@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Meta Newsroom",
+    "category": "instagram_meta",
+    "url": "https://about.fb.com/news/feed/"
+  },
+  {
+    "name": "YouTube Blog",
+    "category": "youtube",
+    "url": "https://blog.youtube/rss/"
+  },
+  {
+    "name": "OpenAI News",
+    "category": "ai_tools",
+    "url": "https://openai.com/news/rss.xml"
+  },
+  {
+    "name": "Google AI Blog",
+    "category": "ai_tools",
+    "url": "https://blog.google/technology/ai/rss/"
+  }
+]
+

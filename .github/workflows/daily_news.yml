@@ -1,0 +1,47 @@
+name: Creator Intelligence Daily News
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 07:00 UTC (10:30 Tehran during standard time)
+    - cron: "0 7 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: creator-intelligence-daily
+  cancel-in-progress: false
+
+jobs:
+  collect-analyze-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run daily news pipeline
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_TOPIC_ID: ${{ secrets.TELEGRAM_TOPIC_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
+          DRY_RUN: "false"
+          PYTHONPATH: src
+        run: python -m social_verse.main
+      - name: Persist publication history
+        run: |
+          if git diff --quiet -- data/published_news.json; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/published_news.json
+          git commit -m "chore: update published news history"
+          git push
