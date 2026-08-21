@@ -14,9 +14,9 @@ class TelegramPublisher:
             "chat_id": self.chat_id,
             "text": message,
             "disable_web_page_preview": "true",
+            "disable_notification": "true",
         }
         if self.topic_id is not None:
             payload["message_thread_id"] = self.topic_id
         response = requests.post(self.url, data=payload, timeout=30)
         response.raise_for_status()
-
