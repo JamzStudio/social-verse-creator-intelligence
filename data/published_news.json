@@ -7,5 +7,41 @@
     "publication_date": "2026-08-20T07:00:00+00:00",
     "published_date": "2026-08-21T22:36:49.387714+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "ad89fb510e3c78c2",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-20T00:00:00+00:00",
+    "published_date": "2026-08-22T07:32:07.122174+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "df8f12302a5b421a",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-19T19:00:00+00:00",
+    "published_date": "2026-08-22T07:32:09.114339+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "abaed39cbc9c9b42",
+    "title": "5 new ways to level up your learning with Search",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-08-19T19:00:00+00:00",
+    "published_date": "2026-08-22T07:32:21.816411+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "8244ace8868346ac",
+    "title": "Launching ‘Meta Startup School’ to Accelerate Growth For Early-Stage Startups",
+    "url": "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-08-19T11:00:22+00:00",
+    "published_date": "2026-08-22T07:32:24.133454+00:00",
+    "category": "instagram_meta"
   }
 ]
