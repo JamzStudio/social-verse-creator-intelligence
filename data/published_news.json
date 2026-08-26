@@ -61,5 +61,50 @@
     "publication_date": "2026-08-24T12:00:00+00:00",
     "published_date": "2026-08-25T07:43:18.677059+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "9ce79d4dded95af4",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-08-25T16:00:00+00:00",
+    "published_date": "2026-08-26T07:46:52.711671+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "6c94e51f6f97aa47",
+    "title": "New Account Security Features for WhatsApp",
+    "url": "https://about.fb.com/news/2026/08/new-account-security-features-for-whatsapp/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-08-25T13:05:56+00:00",
+    "published_date": "2026-08-26T07:46:57.983330+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "51cfe3db04ed0bd3",
+    "title": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-25T07:05:00+00:00",
+    "published_date": "2026-08-26T07:47:04.464615+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "b9406ae170bd9133",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-25T07:00:00+00:00",
+    "published_date": "2026-08-26T07:47:11.342975+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "62003111f3b592c5",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-25T00:00:00+00:00",
+    "published_date": "2026-08-26T07:47:16.156823+00:00",
+    "category": "ai_tools"
   }
 ]
