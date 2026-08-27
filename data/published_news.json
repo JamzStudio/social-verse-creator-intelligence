@@ -106,5 +106,50 @@
     "publication_date": "2026-08-25T00:00:00+00:00",
     "published_date": "2026-08-26T07:47:16.156823+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "fa31064d1ee29364",
+    "title": "Super Simple Songs marks 20 years with new music and content",
+    "url": "https://blog.youtube/creator-and-artist-stories/super-simple-songs-20th-anniversary-youtube/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-08-27T18:00:00+00:00",
+    "published_date": "2026-08-27T18:06:54.550381+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "a1c9c66d73112465",
+    "title": "3 new ways to plan and book travel in Search",
+    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-08-27T16:00:00+00:00",
+    "published_date": "2026-08-27T18:06:56.991414+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "6c9e7de2e4426cf7",
+    "title": "'Ken Burns in the Classroom' arrives on YouTube",
+    "url": "https://blog.youtube/news-and-events/ken-burns-pbs-learningmedia-youtube-courses/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-08-27T14:00:00+00:00",
+    "published_date": "2026-08-27T18:06:59.487508+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "5c8d75ef9c12c059",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-27T09:00:00+00:00",
+    "published_date": "2026-08-27T18:07:02.120026+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "fe23f369e01db08d",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-27T03:00:00+00:00",
+    "published_date": "2026-08-27T18:07:05.038321+00:00",
+    "category": "ai_tools"
   }
 ]
