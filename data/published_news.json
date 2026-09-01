@@ -214,5 +214,23 @@
     "publication_date": "2026-08-31T04:00:00+00:00",
     "published_date": "2026-08-31T14:52:46.368571+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "4862f3d2c68fb1ad",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-31T07:00:00+00:00",
+    "published_date": "2026-09-01T12:23:53.199406+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "0b5a688ac44522d6",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "url": "https://openai.com/index/polimill",
+    "source": "OpenAI News",
+    "publication_date": "2026-08-31T07:00:00+00:00",
+    "published_date": "2026-09-01T12:23:55.514208+00:00",
+    "category": "ai_tools"
   }
 ]
