@@ -232,5 +232,50 @@
     "publication_date": "2026-08-31T07:00:00+00:00",
     "published_date": "2026-09-01T12:23:55.514208+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "c97fc05837957282",
+    "title": "The latest AI news we announced in August 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-01T20:45:00+00:00",
+    "published_date": "2026-09-02T11:58:16.391322+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "7fa0ac6fd7e89dfa",
+    "title": "Inside Meta’s Infrastructure Lab",
+    "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-01T20:24:43+00:00",
+    "published_date": "2026-09-02T11:58:20.649232+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "b0cbef382238cdd5",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-01T17:00:00+00:00",
+    "published_date": "2026-09-02T11:58:24.369053+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "7415c6bcd9dd29da",
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-01T16:00:00+00:00",
+    "published_date": "2026-09-02T11:58:30.078057+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "f2694bfa96c49e91",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "url": "https://openai.com/index/path-to-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-01T13:00:00+00:00",
+    "published_date": "2026-09-02T11:58:32.139639+00:00",
+    "category": "ai_tools"
   }
 ]
