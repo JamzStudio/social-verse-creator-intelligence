@@ -277,5 +277,32 @@
     "publication_date": "2026-09-01T13:00:00+00:00",
     "published_date": "2026-09-02T11:58:32.139639+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "3bda12e16fd31e0e",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-02T12:00:00+00:00",
+    "published_date": "2026-09-03T11:57:57.704511+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "c0364833b41073ca",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-01T12:00:00+00:00",
+    "published_date": "2026-09-03T11:58:00.069606+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "330fba64551db8b4",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-01T01:00:00+00:00",
+    "published_date": "2026-09-03T11:58:03.005448+00:00",
+    "category": "ai_tools"
   }
 ]
