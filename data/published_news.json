@@ -304,5 +304,41 @@
     "publication_date": "2026-09-01T01:00:00+00:00",
     "published_date": "2026-09-03T11:58:03.005448+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "fc40ddafdd41e0cc",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-03T13:15:00+00:00",
+    "published_date": "2026-09-04T11:59:39.537711+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "9281d6906e8350b6",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-03T12:00:00+00:00",
+    "published_date": "2026-09-04T11:59:44.230805+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "325e9dcd840a97e9",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-03T12:00:00+00:00",
+    "published_date": "2026-09-04T11:59:46.301625+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "39210f987919e80e",
+    "title": "Safety overview: GPT-6 Astra",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-03T00:00:00+00:00",
+    "published_date": "2026-09-04T11:59:50.363044+00:00",
+    "category": "ai_tools"
   }
 ]
