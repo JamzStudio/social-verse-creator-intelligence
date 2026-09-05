@@ -340,5 +340,23 @@
     "publication_date": "2026-09-03T00:00:00+00:00",
     "published_date": "2026-09-04T11:59:50.363044+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "567e7eadba83cc78",
+    "title": "Launching Bill Payments in India, Enabling People to Pay Everyday Household Bills Directly on WhatsApp",
+    "url": "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-03T12:13:48+00:00",
+    "published_date": "2026-09-05T11:08:56.245763+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "039a4975e102cb53",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-03T11:00:00+00:00",
+    "published_date": "2026-09-05T11:08:57.944802+00:00",
+    "category": "ai_tools"
   }
 ]
