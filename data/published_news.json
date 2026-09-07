@@ -358,5 +358,23 @@
     "publication_date": "2026-09-03T11:00:00+00:00",
     "published_date": "2026-09-05T11:08:57.944802+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "e0f75446731d598c",
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-06T09:00:00+00:00",
+    "published_date": "2026-09-07T13:20:04.866870+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "3784d7aba9718af9",
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-06T08:00:00+00:00",
+    "published_date": "2026-09-07T13:20:06.888710+00:00",
+    "category": "ai_tools"
   }
 ]
