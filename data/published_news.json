@@ -376,5 +376,50 @@
     "publication_date": "2026-09-06T08:00:00+00:00",
     "published_date": "2026-09-07T13:20:06.888710+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "a02b9db14c7c57f5",
+    "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+    "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-08T19:00:51+00:00",
+    "published_date": "2026-09-09T12:11:00.098526+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "503e9c2326e78f3e",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-08T17:00:00+00:00",
+    "published_date": "2026-09-09T12:11:07.432874+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a00fc889a2dd293b",
+    "title": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-08T13:00:00+00:00",
+    "published_date": "2026-09-09T12:11:23.461710+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "1dcea8b0f8acab14",
+    "title": "Introducing ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-08T11:30:00+00:00",
+    "published_date": "2026-09-09T12:11:26.819708+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "2c827cba158d2f26",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-08T10:00:00+00:00",
+    "published_date": "2026-09-09T12:11:29.083926+00:00",
+    "category": "ai_tools"
   }
 ]
