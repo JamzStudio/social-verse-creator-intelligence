@@ -421,5 +421,50 @@
     "publication_date": "2026-09-08T10:00:00+00:00",
     "published_date": "2026-09-09T12:11:29.083926+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "3eb3e9557eb7038e",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-09T17:00:00+00:00",
+    "published_date": "2026-09-10T12:04:53.061654+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "eab86d2d7833bcf0",
+    "title": "YouTube Music launches Avenues 2.0 series",
+    "url": "https://blog.youtube/news-and-events/youtube-music-avenues-2-video-series/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-09T16:00:00+00:00",
+    "published_date": "2026-09-10T12:04:56.311183+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "73af7527f82e0ada",
+    "title": "Get ready for the game with new football features in Search",
+    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-09T16:00:00+00:00",
+    "published_date": "2026-09-10T12:04:58.852838+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "82b8bf7db8ec7233",
+    "title": "Recreating a 70-year love story frame by frame",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-09T16:00:00+00:00",
+    "published_date": "2026-09-10T12:05:02.297119+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a7c183de5112de47",
+    "title": "The AI policy window is open. We need to act.",
+    "url": "https://openai.com/index/ai-policy-window",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-09T13:00:00+00:00",
+    "published_date": "2026-09-10T12:05:04.599894+00:00",
+    "category": "ai_tools"
   }
 ]
