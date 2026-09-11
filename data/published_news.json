@@ -466,5 +466,50 @@
     "publication_date": "2026-09-09T13:00:00+00:00",
     "published_date": "2026-09-10T12:05:04.599894+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "39842fa0b34b37cb",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-10T16:00:00+00:00",
+    "published_date": "2026-09-11T12:03:24.530769+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "ceadd21f5d3a2d65",
+    "title": "3 ways to prep for your next big race with Search",
+    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-10T16:00:00+00:00",
+    "published_date": "2026-09-11T12:03:26.573849+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "6a886414536a09e3",
+    "title": "Now everyone can put data to work",
+    "url": "https://openai.com/index/put-data-to-work",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-10T15:00:00+00:00",
+    "published_date": "2026-09-11T12:03:32.846579+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "965671c505fd820b",
+    "title": "Has mainstream culture disappeared? New YouTube trends research says no",
+    "url": "https://blog.youtube/culture-and-trends/youtube-culture-trends-modern-mainstream-research/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-10T13:00:00+00:00",
+    "published_date": "2026-09-11T12:03:35.173153+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "0bb946f0c4215389",
+    "title": "Introducing ChatGPT for Financial Services",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-10T07:00:00+00:00",
+    "published_date": "2026-09-11T12:03:38.669541+00:00",
+    "category": "ai_tools"
   }
 ]
