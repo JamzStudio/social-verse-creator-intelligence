@@ -511,5 +511,50 @@
     "publication_date": "2026-09-10T07:00:00+00:00",
     "published_date": "2026-09-11T12:03:38.669541+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "968c32634dc2a1cb",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-14T00:00:00+00:00",
+    "published_date": "2026-09-12T11:29:51.416770+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "4aeb82da9975e2f5",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-11T16:00:00+00:00",
+    "published_date": "2026-09-12T11:29:53.284419+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "46fcf5bb7b99520f",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-11T10:00:00+00:00",
+    "published_date": "2026-09-12T11:29:55.366653+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "3802aa15c4b6ae22",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-10T07:00:00+00:00",
+    "published_date": "2026-09-12T11:29:57.345677+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "b8a75fb67d817922",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-10T00:00:00+00:00",
+    "published_date": "2026-09-12T11:29:59.876286+00:00",
+    "category": "ai_tools"
   }
 ]
