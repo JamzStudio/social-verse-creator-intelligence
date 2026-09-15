@@ -556,5 +556,41 @@
     "publication_date": "2026-09-10T00:00:00+00:00",
     "published_date": "2026-09-12T11:29:59.876286+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "6666660dfd652924",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-14T19:00:00+00:00",
+    "published_date": "2026-09-15T12:29:21.048101+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "ac6fab4ebd9f6bc8",
+    "title": "DevFest is back",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-14T16:00:00+00:00",
+    "published_date": "2026-09-15T12:29:22.984612+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "768d07387021fbde",
+    "title": "YouTube debuts new Creator Shows at the Venice and Toronto International Film Festivals",
+    "url": "https://blog.youtube/news-and-events/youtube-creators-venice-toronto-film-festivals/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-14T13:00:00+00:00",
+    "published_date": "2026-09-15T12:29:26.540728+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "7f82d995c515e5ba",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-14T12:00:00+00:00",
+    "published_date": "2026-09-15T12:29:33.733829+00:00",
+    "category": "ai_tools"
   }
 ]
