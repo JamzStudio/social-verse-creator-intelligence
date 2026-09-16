@@ -592,5 +592,50 @@
     "publication_date": "2026-09-14T12:00:00+00:00",
     "published_date": "2026-09-15T12:29:33.733829+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "971c7743e05cc73d",
+    "title": "Threads Introduces Parental Supervision for Teens in APAC",
+    "url": "https://about.fb.com/news/2026/09/threads-introduces-parental-supervision-for-teens-in-apac/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-16T01:05:49+00:00",
+    "published_date": "2026-09-16T12:27:25.270004+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "970c94673769027a",
+    "title": "AI for Societal Impact",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-15T16:00:00+00:00",
+    "published_date": "2026-09-16T12:27:29.238532+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "6fff55fdf7cb614f",
+    "title": "Building AI to accelerate science and improve lives",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-15T16:00:00+00:00",
+    "published_date": "2026-09-16T12:27:32.774787+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "50f1fa34d3c31e12",
+    "title": "AI for everyone in every language",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-15T16:00:00+00:00",
+    "published_date": "2026-09-16T12:27:36.599117+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "6f4862084b869dc3",
+    "title": "Présentation de Meta One : Un service d’abonnement offrant davantage de fonctionnalités et d’IA pour créer, se connecter et se démarquer",
+    "url": "https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-15T15:25:57+00:00",
+    "published_date": "2026-09-16T12:27:40.026870+00:00",
+    "category": "instagram_meta"
   }
 ]
