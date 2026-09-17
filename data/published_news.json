@@ -637,5 +637,50 @@
     "publication_date": "2026-09-15T15:25:57+00:00",
     "published_date": "2026-09-16T12:27:40.026870+00:00",
     "category": "instagram_meta"
+  },
+  {
+    "id": "f3899afd4d6a0a2d",
+    "title": "Our framework for reporting model misalignment",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-16T17:00:00+00:00",
+    "published_date": "2026-09-17T12:26:57.423436+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "05753733aef3a582",
+    "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
+    "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-16T16:00:19+00:00",
+    "published_date": "2026-09-17T12:26:59.975374+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "b0366f9850a9d166",
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-16T16:00:00+00:00",
+    "published_date": "2026-09-17T12:27:01.995872+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "892d51f634a2658e",
+    "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
+    "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-16T14:53:31+00:00",
+    "published_date": "2026-09-17T12:27:05.531553+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "d31680e4b00a3798",
+    "title": "Meet the 16 new artists joining YouTube Music’s Foundry Class of 2026",
+    "url": "https://blog.youtube/creator-and-artist-stories/new-artists-youtube-music-foundry-class-2026/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-16T13:00:00+00:00",
+    "published_date": "2026-09-17T12:27:08.496722+00:00",
+    "category": "youtube"
   }
 ]
