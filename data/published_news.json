@@ -682,5 +682,50 @@
     "publication_date": "2026-09-16T13:00:00+00:00",
     "published_date": "2026-09-17T12:27:08.496722+00:00",
     "category": "youtube"
+  },
+  {
+    "id": "590df77dc8c3726e",
+    "title": "Making global data easier to explore",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-17T20:00:00+00:00",
+    "published_date": "2026-09-18T12:05:38.754453+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "855a4bd6741699e5",
+    "title": "Creators on Capitol Hill: Launching the Senate Creators Caucus",
+    "url": "https://blog.youtube/news-and-events/launching-senate-creators-caucus/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-17T18:00:00+00:00",
+    "published_date": "2026-09-18T12:05:40.886639+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "d22acfa5d0cc1d09",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "url": "https://openai.com/index/cooley-gopublic",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-17T12:00:00+00:00",
+    "published_date": "2026-09-18T12:05:42.791466+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "192794312f979cbd",
+    "title": "Introducing Astra for Law",
+    "url": "https://openai.com/index/astra-for-law",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-17T00:00:00+00:00",
+    "published_date": "2026-09-18T12:05:44.632353+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "6ac27c68838b29ee",
+    "title": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-16T13:00:00+00:00",
+    "published_date": "2026-09-18T12:05:46.506438+00:00",
+    "category": "ai_tools"
   }
 ]
