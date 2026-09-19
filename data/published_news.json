@@ -727,5 +727,50 @@
     "publication_date": "2026-09-16T13:00:00+00:00",
     "published_date": "2026-09-18T12:05:46.506438+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "d92122e53ec9d4f7",
+    "title": "New experts join Google’s AI & Economy team",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-18T14:00:00+00:00",
+    "published_date": "2026-09-19T11:48:31.143786+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "44ec3a3d6fdc7de7",
+    "title": "Co-creating the future of fashion with Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-18T13:00:00+00:00",
+    "published_date": "2026-09-19T11:48:35.410674+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a00923bf4ddda715",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-18T12:00:00+00:00",
+    "published_date": "2026-09-19T11:48:37.342616+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "27cd99b1dbe34420",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "url": "https://openai.com/index/hex-gpt-6-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-16T12:00:00+00:00",
+    "published_date": "2026-09-19T11:48:39.266060+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "4410122683c56925",
+    "title": "How to connect AI usage to business value",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-16T12:00:00+00:00",
+    "published_date": "2026-09-19T11:48:41.539002+00:00",
+    "category": "ai_tools"
   }
 ]
