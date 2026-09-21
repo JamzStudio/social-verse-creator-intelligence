@@ -772,5 +772,23 @@
     "publication_date": "2026-09-16T12:00:00+00:00",
     "published_date": "2026-09-19T11:48:41.539002+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "7a832a2c4cd69bae",
+    "title": "Announcing Petal, a First-of-its-Kind Transoceanic Subsea Cable",
+    "url": "https://about.fb.com/news/2026/09/announcing-petal-meta-petabit-transoceanic-cable/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-21T12:00:18+00:00",
+    "published_date": "2026-09-21T13:40:52.435058+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "d2871d486c61275a",
+    "title": "How V7 gives AI agents institutional memory",
+    "url": "https://openai.com/index/v7",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-21T00:00:00+00:00",
+    "published_date": "2026-09-21T13:40:54.342002+00:00",
+    "category": "ai_tools"
   }
 ]
