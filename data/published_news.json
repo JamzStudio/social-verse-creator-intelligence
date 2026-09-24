@@ -871,5 +871,50 @@
     "publication_date": "2026-09-22T18:00:00+00:00",
     "published_date": "2026-09-23T12:36:09.835627+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "1ccf342131e2aeec",
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-23T18:00:00+00:00",
+    "published_date": "2026-09-24T12:34:16.470124+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "52e46e8371e1f699",
+    "title": "Two years of OpenAI Academy",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-23T16:00:00+00:00",
+    "published_date": "2026-09-24T12:34:21.732192+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a5091bb6e8f22354",
+    "title": "Dive in and discover what’s next on YouTube with our latest viewer features",
+    "url": "https://blog.youtube/news-and-events/made-on-youtube-viewer-custom-feeds-shopping-tools/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-23T14:30:00+00:00",
+    "published_date": "2026-09-24T12:34:25.514724+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "3e6407c69235c7a5",
+    "title": "Coachella will stream exclusively on YouTube through 2030",
+    "url": "https://blog.youtube/news-and-events/made-on-youtube-coachella-exclusively-stream-youtube-2030/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-23T14:30:00+00:00",
+    "published_date": "2026-09-24T12:34:26.728066+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "f50846189b2fa829",
+    "title": "Bringing brands and creators together to help you earn more",
+    "url": "https://blog.youtube/news-and-events/made-on-youtube-creator-monetization-shopping/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-23T14:30:00+00:00",
+    "published_date": "2026-09-24T12:34:27.650501+00:00",
+    "category": "youtube"
   }
 ]
