@@ -916,5 +916,50 @@
     "publication_date": "2026-09-23T14:30:00+00:00",
     "published_date": "2026-09-24T12:34:27.650501+00:00",
     "category": "youtube"
+  },
+  {
+    "id": "657604e404f67dc2",
+    "title": "The Biggest News From Connect 2026",
+    "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-24T21:15:55+00:00",
+    "published_date": "2026-09-25T12:35:41.727440+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "41384dc8a36cd9d7",
+    "title": "Innovation for the YouTube Era: What’s new for viewers and creators",
+    "url": "https://blog.youtube/news-and-events/innovation-youtube-era-made-on-viewers-creators/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-23T14:30:00+00:00",
+    "published_date": "2026-09-25T12:35:45.662930+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "428eb8a0d91b6496",
+    "title": "New tools to power your creation journey from start to finish",
+    "url": "https://blog.youtube/news-and-events/made-on-youtube-new-tools-power-creation-journey/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-23T14:30:00+00:00",
+    "published_date": "2026-09-25T12:35:49.700218+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "298a05b0ec7530b4",
+    "title": "Connect with creators on the biggest screen with YouTube’s latest features",
+    "url": "https://blog.youtube/news-and-events/made-on-youtube-creators-shorts-series-tv-features/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-23T14:30:00+00:00",
+    "published_date": "2026-09-25T12:35:51.834510+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "e1c6f69407992d85",
+    "title": "New YouTube Live tools for fan funding, dubbing and more",
+    "url": "https://blog.youtube/news-and-events/made-on-youtube-live-tools-fan-funding-dubbing/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-23T14:30:00+00:00",
+    "published_date": "2026-09-25T12:35:53.644496+00:00",
+    "category": "youtube"
   }
 ]
