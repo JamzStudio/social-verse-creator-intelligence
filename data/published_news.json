@@ -961,5 +961,23 @@
     "publication_date": "2026-09-23T14:30:00+00:00",
     "published_date": "2026-09-25T12:35:53.644496+00:00",
     "category": "youtube"
+  },
+  {
+    "id": "9de028fbe46cac8b",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "url": "https://openai.com/index/proaction",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-25T19:00:00+00:00",
+    "published_date": "2026-09-26T12:04:45.324224+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "f52976100260b384",
+    "title": "Press play on these new YouTube Music updates",
+    "url": "https://blog.youtube/news-and-events/made-on-youtube-music-new-discovery-features/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-23T14:30:00+00:00",
+    "published_date": "2026-09-26T12:04:46.918942+00:00",
+    "category": "youtube"
   }
 ]
