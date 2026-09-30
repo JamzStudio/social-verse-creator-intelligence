@@ -1033,5 +1033,50 @@
     "publication_date": "2026-09-28T19:00:00+00:00",
     "published_date": "2026-09-29T13:47:35.310850+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "e661f9300be7b8b6",
+    "title": "How to watch, shop, & engage with the 2026 Victoria’s Secret Fashion Show",
+    "url": "https://blog.youtube/culture-and-trends/watch-victorias-secret-fashion-show-2026-youtube/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-30T13:00:00+00:00",
+    "published_date": "2026-09-30T13:22:12.756058+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "7714ec47d5d8554b",
+    "title": "We go behind the scenes at Made On YouTube 2026",
+    "url": "https://blog.youtube/inside-youtube/behind-scenes-make-it-made-on-youtube-2026/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-09-29T19:00:00+00:00",
+    "published_date": "2026-09-30T13:22:21.919506+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "d6b9f5e651b1891e",
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-29T10:00:00+00:00",
+    "published_date": "2026-09-30T13:22:25.648014+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "6071f63e21f64254",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-29T10:00:00+00:00",
+    "published_date": "2026-09-30T13:22:29.965177+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "dec620cb7225d243",
+    "title": "Introducing dots",
+    "url": "https://openai.com/index/introducing-dots",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-29T00:00:00+00:00",
+    "published_date": "2026-09-30T13:22:37.276340+00:00",
+    "category": "ai_tools"
   }
 ]
