@@ -1078,5 +1078,50 @@
     "publication_date": "2026-09-29T00:00:00+00:00",
     "published_date": "2026-09-30T13:22:37.276340+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "90249c2a3882c6d3",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-30T10:30:00+00:00",
+    "published_date": "2026-10-01T14:15:58.166076+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "061338e668ed6974",
+    "title": "Helping small businesses put AI to work",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-30T10:00:00+00:00",
+    "published_date": "2026-10-01T14:16:02.647409+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "0d0078149de5c467",
+    "title": "Find Your Community With Forum, a Dedicated App for Facebook Groups",
+    "url": "https://about.fb.com/news/2026/09/find-community-forum-dedicated-app-facebook-groups/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-09-29T16:00:05+00:00",
+    "published_date": "2026-10-01T14:16:07.430113+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "2fc54b690d7b20a2",
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "source": "OpenAI News",
+    "publication_date": "2026-09-28T19:00:00+00:00",
+    "published_date": "2026-10-01T14:16:11.038684+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "db713ef86bd59ea8",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-09-28T19:00:00+00:00",
+    "published_date": "2026-10-01T14:16:13.240213+00:00",
+    "category": "ai_tools"
   }
 ]
