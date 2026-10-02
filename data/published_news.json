@@ -1123,5 +1123,50 @@
     "publication_date": "2026-09-28T19:00:00+00:00",
     "published_date": "2026-10-01T14:16:13.240213+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "b8087b88cb63ae7f",
+    "title": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-01T17:00:00+00:00",
+    "published_date": "2026-10-02T13:37:47.282105+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "637d3dfa247fa816",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-01T16:00:00+00:00",
+    "published_date": "2026-10-02T13:37:51.826658+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "1a0610279e8618aa",
+    "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
+    "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-01T14:16:04+00:00",
+    "published_date": "2026-10-02T13:37:55.472080+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "b47210dffb14a079",
+    "title": "3 ways YouTube is helping news organizations build for the future",
+    "url": "https://blog.youtube/inside-youtube/youtube-news-working-group-tools-future/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-10-01T14:00:00+00:00",
+    "published_date": "2026-10-02T13:38:00.953618+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "2167384f51e2a446",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-01T00:00:00+00:00",
+    "published_date": "2026-10-02T13:38:03.375674+00:00",
+    "category": "ai_tools"
   }
 ]
