@@ -1168,5 +1168,23 @@
     "publication_date": "2026-10-01T00:00:00+00:00",
     "published_date": "2026-10-02T13:38:03.375674+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "c38af6e5cae43e23",
+    "title": "A model guide for the GPT-6 family",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-02T16:15:00+00:00",
+    "published_date": "2026-10-03T12:15:55.052033+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "882596cbc7639eb4",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-02T00:00:00+00:00",
+    "published_date": "2026-10-03T12:15:59.719522+00:00",
+    "category": "ai_tools"
   }
 ]
