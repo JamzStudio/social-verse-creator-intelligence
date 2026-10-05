@@ -1186,5 +1186,23 @@
     "publication_date": "2026-10-02T00:00:00+00:00",
     "published_date": "2026-10-03T12:15:59.719522+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "d2b5b29b4c815525",
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-05T15:00:00+00:00",
+    "published_date": "2026-10-05T15:36:11.435221+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "2d8e70fb45cef747",
+    "title": "Building advertising for the way people use AI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-05T10:00:00+00:00",
+    "published_date": "2026-10-05T15:36:15.169154+00:00",
+    "category": "ai_tools"
   }
 ]
