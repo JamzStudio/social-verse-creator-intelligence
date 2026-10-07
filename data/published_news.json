@@ -1204,5 +1204,50 @@
     "publication_date": "2026-10-05T10:00:00+00:00",
     "published_date": "2026-10-05T15:36:15.169154+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "bf4513644ab61109",
+    "title": "Measures We’ve Put in Place to Fight Child Exploitation",
+    "url": "https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-07T13:03:19+00:00",
+    "published_date": "2026-10-07T14:14:56.949968+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "2896758265cec81d",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-06T16:00:00+00:00",
+    "published_date": "2026-10-07T14:14:59.702890+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "ebb413cc5359756b",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-06T12:00:00+00:00",
+    "published_date": "2026-10-07T14:15:01.794779+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "00427e47df5ef306",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-06T12:00:00+00:00",
+    "published_date": "2026-10-07T14:15:33.214038+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "f57eff9c23a4454b",
+    "title": "Advancing computer use with Ironclad",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-06T10:00:00+00:00",
+    "published_date": "2026-10-07T14:15:39.402964+00:00",
+    "category": "ai_tools"
   }
 ]
