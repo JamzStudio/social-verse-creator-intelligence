@@ -1249,5 +1249,50 @@
     "publication_date": "2026-10-06T10:00:00+00:00",
     "published_date": "2026-10-07T14:15:39.402964+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "27c2827270e15cf4",
+    "title": "Meta Donates 1,000 AI Glasses to Singapore’s Disability Community",
+    "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-08T05:49:36+00:00",
+    "published_date": "2026-10-08T14:24:27.116049+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "68d2d671da6664ca",
+    "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach",
+    "url": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-07T23:19:30+00:00",
+    "published_date": "2026-10-08T14:24:29.060006+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "661f64ddb5f472a2",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-07T12:00:00+00:00",
+    "published_date": "2026-10-08T14:24:41.527237+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "b6aec8c05cfc3e2f",
+    "title": "Introducing Playground: Create and play custom games",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-10-07T12:00:00+00:00",
+    "published_date": "2026-10-08T14:25:03.208945+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "4e324623ab7ca6fe",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-07T07:00:00+00:00",
+    "published_date": "2026-10-08T14:25:04.066916+00:00",
+    "category": "ai_tools"
   }
 ]
