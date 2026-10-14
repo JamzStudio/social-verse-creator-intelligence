@@ -1375,5 +1375,50 @@
     "publication_date": "2026-10-12T17:08:05+00:00",
     "published_date": "2026-10-13T14:50:18.029505+00:00",
     "category": "instagram_meta"
+  },
+  {
+    "id": "ef653547dd2376bf",
+    "title": "Farah Khan at Edits Film Festival: “Content breakthroughs come from spontaneity, relatability and realness”",
+    "url": "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-14T11:39:32+00:00",
+    "published_date": "2026-10-14T12:40:58.023232+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "200a5d3dd39c6bfb",
+    "title": "The EU’s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-14T00:00:00+00:00",
+    "published_date": "2026-10-14T12:41:00.634640+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "4fcc70667b9abb40",
+    "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+    "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-13T16:00:29+00:00",
+    "published_date": "2026-10-14T12:41:02.818608+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "74c9e10c02543c49",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-10-13T16:00:00+00:00",
+    "published_date": "2026-10-14T12:41:04.305618+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "8d45898e533e591d",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-13T12:00:00+00:00",
+    "published_date": "2026-10-14T12:41:08.981344+00:00",
+    "category": "ai_tools"
   }
 ]
