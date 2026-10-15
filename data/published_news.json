@@ -1420,5 +1420,50 @@
     "publication_date": "2026-10-13T12:00:00+00:00",
     "published_date": "2026-10-14T12:41:08.981344+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "5629cd91bae3111b",
+    "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+    "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-15T00:50:50+00:00",
+    "published_date": "2026-10-15T12:29:10.425984+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "75adae1675332519",
+    "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+    "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-14T16:00:57+00:00",
+    "published_date": "2026-10-15T12:29:12.605287+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "768dc3c6eed6cfbc",
+    "title": "Now You Can Invite Anyone to a WhatsApp Call",
+    "url": "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-14T14:24:37+00:00",
+    "published_date": "2026-10-15T12:29:14.256561+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "57c3309db5bedcde",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-14T12:00:00+00:00",
+    "published_date": "2026-10-15T12:29:15.874896+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "004cd593adabcd24",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-14T12:00:00+00:00",
+    "published_date": "2026-10-15T12:29:17.566348+00:00",
+    "category": "ai_tools"
   }
 ]
