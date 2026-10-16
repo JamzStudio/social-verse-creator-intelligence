@@ -1465,5 +1465,50 @@
     "publication_date": "2026-10-14T12:00:00+00:00",
     "published_date": "2026-10-15T12:29:17.566348+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "32165ee6af8945a5",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-15T19:00:00+00:00",
+    "published_date": "2026-10-16T12:07:31.806852+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "448830f672861537",
+    "title": "Why Lilly Singh is returning to sketch comedy on YouTube",
+    "url": "https://blog.youtube/creator-and-artist-stories/lilly-singh-superwoman-youtube-return/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-10-15T18:00:00+00:00",
+    "published_date": "2026-10-16T12:07:36.749790+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "a60f4a701f887ae8",
+    "title": "Teaching students to think and learn through questions",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-15T13:00:00+00:00",
+    "published_date": "2026-10-16T12:07:47.103023+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "94eadcab22c41e35",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-15T00:00:00+00:00",
+    "published_date": "2026-10-16T12:07:48.921395+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a8b8c31de898145e",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-14T07:00:00+00:00",
+    "published_date": "2026-10-16T12:07:49.777202+00:00",
+    "category": "ai_tools"
   }
 ]
