@@ -1510,5 +1510,32 @@
     "publication_date": "2026-10-14T07:00:00+00:00",
     "published_date": "2026-10-16T12:07:49.777202+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "9732b2763df5a67a",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-16T19:00:00+00:00",
+    "published_date": "2026-10-17T11:25:21.924798+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "9e63539289a31c86",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-16T00:00:00+00:00",
+    "published_date": "2026-10-17T11:25:24.380047+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "b6756c0a180ee554",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-16T00:00:00+00:00",
+    "published_date": "2026-10-17T11:25:28.248487+00:00",
+    "category": "ai_tools"
   }
 ]
