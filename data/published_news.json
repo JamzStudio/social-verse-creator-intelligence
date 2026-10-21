@@ -1546,5 +1546,41 @@
     "publication_date": "2026-10-19T12:00:00+00:00",
     "published_date": "2026-10-20T12:33:46.588361+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "c7c1db1d24f97b16",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-10-21T04:00:00+00:00",
+    "published_date": "2026-10-21T12:44:53.469117+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "1725d137aa3debc0",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-20T10:00:00+00:00",
+    "published_date": "2026-10-21T12:45:00.824588+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "aa8847d44cbae332",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "url": "https://openai.com/index/terminal-x",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-20T07:00:00+00:00",
+    "published_date": "2026-10-21T12:45:09.589726+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "1cfb6291fa158d05",
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-20T00:00:00+00:00",
+    "published_date": "2026-10-21T12:45:17.148350+00:00",
+    "category": "ai_tools"
   }
 ]
