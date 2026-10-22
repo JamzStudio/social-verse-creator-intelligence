@@ -1582,5 +1582,50 @@
     "publication_date": "2026-10-20T00:00:00+00:00",
     "published_date": "2026-10-21T12:45:17.148350+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "3f1a11956436b167",
+    "title": "Broad access through consistent standards",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-21T21:00:00+00:00",
+    "published_date": "2026-10-22T12:48:35.858859+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "39cad894cdd240fb",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-21T17:00:00+00:00",
+    "published_date": "2026-10-22T12:48:37.991059+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "b1215e1aefc04c61",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-21T13:00:00+00:00",
+    "published_date": "2026-10-22T12:48:45.368206+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "95dedf578de78f3e",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-21T12:00:00+00:00",
+    "published_date": "2026-10-22T12:48:47.857440+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "de9db6f384cbc788",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-21T07:00:00+00:00",
+    "published_date": "2026-10-22T12:48:57.180164+00:00",
+    "category": "ai_tools"
   }
 ]
