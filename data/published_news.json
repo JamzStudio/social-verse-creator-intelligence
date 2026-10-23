@@ -1627,5 +1627,50 @@
     "publication_date": "2026-10-21T07:00:00+00:00",
     "published_date": "2026-10-22T12:48:57.180164+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "1a543055a02f9816",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-23T00:00:00+00:00",
+    "published_date": "2026-10-23T12:26:49.823153+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "891b7e0bbf66f86d",
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-22T19:00:00+00:00",
+    "published_date": "2026-10-23T12:26:56.928336+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "6400feb681472530",
+    "title": "What FDE means at OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-22T06:00:00+00:00",
+    "published_date": "2026-10-23T12:27:02.757686+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "eda525050cea8fce",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-22T00:00:00+00:00",
+    "published_date": "2026-10-23T12:27:16.251926+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "ea92da5c121ecb45",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-21T07:00:00+00:00",
+    "published_date": "2026-10-23T12:27:18.255121+00:00",
+    "category": "ai_tools"
   }
 ]
