@@ -1672,5 +1672,23 @@
     "publication_date": "2026-10-21T07:00:00+00:00",
     "published_date": "2026-10-23T12:27:18.255121+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "c8737af7ac61700d",
+    "title": "New Tools for the Admins Who Build Communities on Forum",
+    "url": "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-23T16:00:06+00:00",
+    "published_date": "2026-10-24T11:52:36.979018+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "f8c156dba7886826",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-23T10:00:00+00:00",
+    "published_date": "2026-10-24T11:52:40.977788+00:00",
+    "category": "ai_tools"
   }
 ]
