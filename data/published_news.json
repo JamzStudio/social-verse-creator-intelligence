@@ -1690,5 +1690,50 @@
     "publication_date": "2026-10-23T10:00:00+00:00",
     "published_date": "2026-10-24T11:52:40.977788+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "01282ce2311f6ec4",
+    "title": "The evolution of web series on YouTube: Microdramas",
+    "url": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-10-27T01:00:00+00:00",
+    "published_date": "2026-10-27T13:00:20.283970+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "a9c488820a62ac4a",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-26T22:00:00+00:00",
+    "published_date": "2026-10-27T13:00:23.057207+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "2735c00158ea18c9",
+    "title": "Uncover the magic of ACOTAR with YouTube",
+    "url": "https://blog.youtube/culture-and-trends/youtube-sarah-j-maas-acotar-book-release/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-10-26T16:00:00+00:00",
+    "published_date": "2026-10-27T13:00:24.404056+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "b1d7eb2dedce5839",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-10-26T16:00:00+00:00",
+    "published_date": "2026-10-27T13:00:26.524401+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "8eb6001a836a6e50",
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-26T14:30:00+00:00",
+    "published_date": "2026-10-27T13:00:30.497841+00:00",
+    "category": "ai_tools"
   }
 ]
