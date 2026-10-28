@@ -1735,5 +1735,50 @@
     "publication_date": "2026-10-26T14:30:00+00:00",
     "published_date": "2026-10-27T13:00:30.497841+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "dd78d4a646c57857",
+    "title": "5 ways media companies are growing audiences and revenue on YouTube",
+    "url": "https://blog.youtube/creator-and-artist-stories/media-companies-youtube-growth-strategies/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-10-28T11:00:00+00:00",
+    "published_date": "2026-10-28T13:51:58.170402+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "67c6b18b0a76451d",
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-28T09:30:00+00:00",
+    "published_date": "2026-10-28T13:52:00.804512+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "029fce1038fb4f26",
+    "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+    "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-28T00:00:03+00:00",
+    "published_date": "2026-10-28T13:52:02.799368+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "1e3ebf94e41ebe19",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-27T15:00:00+00:00",
+    "published_date": "2026-10-28T13:52:04.872964+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "c417f8e3d39d0b89",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-27T07:00:00+00:00",
+    "published_date": "2026-10-28T13:52:07.624712+00:00",
+    "category": "ai_tools"
   }
 ]
