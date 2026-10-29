@@ -1780,5 +1780,50 @@
     "publication_date": "2026-10-27T07:00:00+00:00",
     "published_date": "2026-10-28T13:52:07.624712+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "d74c5d02448ad075",
+    "title": "“Kind of Big News”: How Sonny Side earned Best Ever Food Review Show an Emmy nom",
+    "url": "https://blog.youtube/creator-and-artist-stories/sonny-side-youtube-emmy-nomination-interview/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-10-28T19:00:00+00:00",
+    "published_date": "2026-10-29T13:57:13.558323+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "9327e550d0f4f4ee",
+    "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+    "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-28T17:00:49+00:00",
+    "published_date": "2026-10-29T13:57:28.428101+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "a395c7da350b5086",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-28T13:15:00+00:00",
+    "published_date": "2026-10-29T13:57:35.275111+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "e2ed7680c50ae3f0",
+    "title": "The future of the firm",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-28T10:00:00+00:00",
+    "published_date": "2026-10-29T13:57:47.976423+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "c44dc9ed271ff418",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-27T00:00:00+00:00",
+    "published_date": "2026-10-29T13:57:52.233993+00:00",
+    "category": "ai_tools"
   }
 ]
