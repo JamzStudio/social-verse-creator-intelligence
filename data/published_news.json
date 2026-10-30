@@ -1825,5 +1825,50 @@
     "publication_date": "2026-10-27T00:00:00+00:00",
     "published_date": "2026-10-29T13:57:52.233993+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "f85dfc8284864123",
+    "title": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+    "url": "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-29T17:00:55+00:00",
+    "published_date": "2026-10-30T13:52:44.377661+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "c81808873a1b56de",
+    "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+    "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-10-29T17:00:36+00:00",
+    "published_date": "2026-10-30T13:52:52.308586+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "9349f418e7bc7ab4",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-29T17:00:00+00:00",
+    "published_date": "2026-10-30T13:52:54.288293+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "0f01adb2acab0a67",
+    "title": "How we detect frontier model misalignment",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-29T09:00:00+00:00",
+    "published_date": "2026-10-30T13:53:13.124516+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "d948735545c20cf3",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "OpenAI News",
+    "publication_date": "2026-10-29T07:00:00+00:00",
+    "published_date": "2026-10-30T13:53:15.296622+00:00",
+    "category": "ai_tools"
   }
 ]
