@@ -1915,5 +1915,50 @@
     "publication_date": "2026-11-02T15:00:00+00:00",
     "published_date": "2026-11-02T16:51:37.347074+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "fc87a45dcfbf03d4",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-03T08:00:00+00:00",
+    "published_date": "2026-11-03T14:52:19.149869+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "af0aaaa39e695c4c",
+    "title": "New accessibility tags come to YouTube Playables",
+    "url": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-11-02T20:00:00+00:00",
+    "published_date": "2026-11-03T14:53:04.733496+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "0d297090385ad5a7",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-02T18:00:00+00:00",
+    "published_date": "2026-11-03T14:53:05.919511+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "bca108e4c77bd86b",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-02T18:00:00+00:00",
+    "published_date": "2026-11-03T14:53:06.845154+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "277870ffc8d71544",
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-02T15:30:00+00:00",
+    "published_date": "2026-11-03T14:53:07.936915+00:00",
+    "category": "ai_tools"
   }
 ]
