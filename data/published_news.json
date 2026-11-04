@@ -1960,5 +1960,50 @@
     "publication_date": "2026-11-02T15:30:00+00:00",
     "published_date": "2026-11-03T14:53:07.936915+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "1be4fdd8e6ca80f0",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-04T14:30:00+00:00",
+    "published_date": "2026-11-04T15:10:22.623383+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a3433e936d2c04bf",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-04T07:00:00+00:00",
+    "published_date": "2026-11-04T15:10:23.819609+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "34e7d62615202d0d",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-03T08:00:00+00:00",
+    "published_date": "2026-11-04T15:10:24.984027+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "019edb616369c332",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-03T00:00:00+00:00",
+    "published_date": "2026-11-04T15:10:29.390949+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "5a014341bc3fc0f1",
+    "title": "LifeVal",
+    "url": "https://openai.com/index/lifeval",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-02T09:00:00+00:00",
+    "published_date": "2026-11-04T15:10:30.198863+00:00",
+    "category": "ai_tools"
   }
 ]
