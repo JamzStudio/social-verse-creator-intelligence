@@ -2005,5 +2005,50 @@
     "publication_date": "2026-11-02T09:00:00+00:00",
     "published_date": "2026-11-04T15:10:30.198863+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "5d54d316815a9f4e",
+    "title": "WhatsApp Events Brings People Together Beyond the Group Chat",
+    "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-05T15:00:45+00:00",
+    "published_date": "2026-11-05T15:12:41.375614+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "25fa4dd18ec78a48",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-05T02:00:00+00:00",
+    "published_date": "2026-11-05T15:12:43.325792+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "fbaa86a829ad59fd",
+    "title": "A thousand fewer paths to root",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-04T08:00:00+00:00",
+    "published_date": "2026-11-05T15:12:45.346501+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "295354ff422b0d4d",
+    "title": "Introducing Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-04T00:00:00+00:00",
+    "published_date": "2026-11-05T15:12:47.010991+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "981785a01550309d",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-04T00:00:00+00:00",
+    "published_date": "2026-11-05T15:12:49.027028+00:00",
+    "category": "ai_tools"
   }
 ]
