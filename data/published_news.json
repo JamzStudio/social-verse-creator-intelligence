@@ -2095,5 +2095,50 @@
     "publication_date": "2026-11-05T09:00:00+00:00",
     "published_date": "2026-11-06T14:48:37.294116+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "7d15d35372241976",
+    "title": "Design the Muse App, Just for You",
+    "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-06T18:00:58+00:00",
+    "published_date": "2026-11-07T13:45:56.933597+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "a0a44ed09dc9a108",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-06T08:00:00+00:00",
+    "published_date": "2026-11-07T13:46:17.356004+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "5f721228af3682c2",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-06T00:00:00+00:00",
+    "published_date": "2026-11-07T13:46:20.496811+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "db9792e954d44701",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-05T08:00:00+00:00",
+    "published_date": "2026-11-07T13:46:24.067210+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "2d1d326185a62641",
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-05T00:45:15+00:00",
+    "published_date": "2026-11-07T13:46:27.607128+00:00",
+    "category": "ai_tools"
   }
 ]
