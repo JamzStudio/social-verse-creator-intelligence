@@ -2158,5 +2158,50 @@
     "publication_date": "2026-11-09T12:00:45+00:00",
     "published_date": "2026-11-09T17:13:00.158019+00:00",
     "category": "instagram_meta"
+  },
+  {
+    "id": "8ccc0f3fec8d411d",
+    "title": "Watch the 'Always Lalisa' documentary with YouTube Premium on November 18",
+    "url": "https://blog.youtube/culture-and-trends/youtube-premium-always-lalisa-documentary/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-11-10T15:00:00+00:00",
+    "published_date": "2026-11-10T15:26:10.304089+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "59a8a5dd3afc5312",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-10T14:00:00+00:00",
+    "published_date": "2026-11-10T15:26:12.782869+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "ef83b8dc18b1604d",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-10T13:00:00+00:00",
+    "published_date": "2026-11-10T15:26:38.580960+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "0f0020abcf733229",
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-10T12:00:00+00:00",
+    "published_date": "2026-11-10T15:26:40.449480+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "69d4d9d74efa0162",
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-10T09:00:00+00:00",
+    "published_date": "2026-11-10T15:27:01.909155+00:00",
+    "category": "ai_tools"
   }
 ]
