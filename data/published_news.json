@@ -2203,5 +2203,50 @@
     "publication_date": "2026-11-10T09:00:00+00:00",
     "published_date": "2026-11-10T15:27:01.909155+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "65b96c238445cded",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-12T00:00:00+00:00",
+    "published_date": "2026-11-11T14:56:49.805849+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "ac94b61a25ade5ed",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-11T08:00:00+00:00",
+    "published_date": "2026-11-11T14:57:37.256881+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "57dd55783b0d1ddc",
+    "title": "Paris Hilton talks vulnerability, privilege and creativity for ADHD Awareness Month",
+    "url": "https://blog.youtube/creator-and-artist-stories/paris-hilton-adhd-awareness-interview/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-11-10T19:00:00+00:00",
+    "published_date": "2026-11-11T14:57:45.417287+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "c0101f36ad82bf91",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-10T19:00:00+00:00",
+    "published_date": "2026-11-11T14:57:47.722001+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "991ad48e8559b2fe",
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-10T10:00:00+00:00",
+    "published_date": "2026-11-11T14:57:54.254113+00:00",
+    "category": "ai_tools"
   }
 ]
