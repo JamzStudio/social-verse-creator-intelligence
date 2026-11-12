@@ -2248,5 +2248,50 @@
     "publication_date": "2026-11-10T10:00:00+00:00",
     "published_date": "2026-11-11T14:57:54.254113+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "848f18a5f3c26d3f",
+    "title": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
+    "url": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-11-12T15:00:00+00:00",
+    "published_date": "2026-11-12T15:47:49.830134+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "6897443716994d3c",
+    "title": "Meta’s New Agreements Bring Clean Manufacturing to Data Center Supply Chains",
+    "url": "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-12T12:00:07+00:00",
+    "published_date": "2026-11-12T15:47:53.278436+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "d7c1da8cb7dc41da",
+    "title": "Supporting research on AI and children’s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-12T00:00:00+00:00",
+    "published_date": "2026-11-12T15:48:01.846513+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "c06fca3b9549fb95",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-11T18:00:00+00:00",
+    "published_date": "2026-11-12T15:48:36.090874+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "eac4d84ef949975e",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-11T16:00:00+00:00",
+    "published_date": "2026-11-12T15:48:43.961649+00:00",
+    "category": "ai_tools"
   }
 ]
