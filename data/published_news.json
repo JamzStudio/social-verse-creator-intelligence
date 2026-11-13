@@ -2293,5 +2293,50 @@
     "publication_date": "2026-11-11T16:00:00+00:00",
     "published_date": "2026-11-12T15:48:43.961649+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "67672a694e389b29",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-12T20:00:00+00:00",
+    "published_date": "2026-11-13T15:08:25.465269+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "f19cddd04797ae7d",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-12T18:00:00+00:00",
+    "published_date": "2026-11-13T15:08:37.209071+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "b9840fd67063a36a",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-12T12:00:00+00:00",
+    "published_date": "2026-11-13T15:08:38.863206+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "4922ca6fb0dd9299",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-12T09:30:00+00:00",
+    "published_date": "2026-11-13T15:08:40.516701+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "55ff14dc4213127d",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-11T00:00:00+00:00",
+    "published_date": "2026-11-13T15:08:43.271084+00:00",
+    "category": "ai_tools"
   }
 ]
