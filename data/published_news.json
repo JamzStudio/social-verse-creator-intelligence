@@ -2356,5 +2356,50 @@
     "publication_date": "2026-11-13T08:00:00+00:00",
     "published_date": "2026-11-14T13:58:35.026297+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "dfc32ad6652396f0",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-16T14:00:00+00:00",
+    "published_date": "2026-11-16T16:47:56.524315+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "ff7833693fa2a067",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-16T09:00:00+00:00",
+    "published_date": "2026-11-16T16:48:41.906279+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "59e284e3cfc62c7e",
+    "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+    "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-16T06:25:27+00:00",
+    "published_date": "2026-11-16T16:48:51.924537+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "21e886491b30cfff",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-16T06:00:00+00:00",
+    "published_date": "2026-11-16T16:49:08.634989+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "60f3c7381bc61eae",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-16T00:00:00+00:00",
+    "published_date": "2026-11-16T16:49:25.951684+00:00",
+    "category": "ai_tools"
   }
 ]
