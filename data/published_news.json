@@ -2401,5 +2401,50 @@
     "publication_date": "2026-11-16T00:00:00+00:00",
     "published_date": "2026-11-16T16:49:25.951684+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "3878cb92b138613b",
+    "title": "An Update on the Content We Recommend on Instagram in India",
+    "url": "https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-17T03:58:09+00:00",
+    "published_date": "2026-11-17T16:43:50.923629+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "d9e47f512715dddc",
+    "title": "Introducing Direct: An App Just for Messaging",
+    "url": "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-17T01:00:48+00:00",
+    "published_date": "2026-11-17T16:44:36.462636+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "0e7f690aa4ff229b",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-17T00:00:00+00:00",
+    "published_date": "2026-11-17T16:45:21.909023+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "3b3be741a87f5e21",
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-17T00:00:00+00:00",
+    "published_date": "2026-11-17T16:45:23.891608+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a0e0e55174d5ebaa",
+    "title": "Paddy Galloway dives deep with us on Video A/B, Ask Studio, and evolving over time",
+    "url": "https://blog.youtube/creator-and-artist-stories/creator-insider-paddy-galloway-youtube-ab-testing-ask-studio/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-11-16T17:30:00+00:00",
+    "published_date": "2026-11-17T16:45:46.231444+00:00",
+    "category": "youtube"
   }
 ]
