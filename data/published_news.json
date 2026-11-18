@@ -2446,5 +2446,50 @@
     "publication_date": "2026-11-16T17:30:00+00:00",
     "published_date": "2026-11-17T16:45:46.231444+00:00",
     "category": "youtube"
+  },
+  {
+    "id": "b0dfaac3cf70b7a9",
+    "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+    "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-18T14:07:00+00:00",
+    "published_date": "2026-11-18T16:14:10.604130+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "954b84ae97821e45",
+    "title": "Coming soon to YouTube: A first look at the next wave of must-see creator-led entertainment",
+    "url": "https://blog.youtube/news-and-events/youtube-creator-premieres-slate-2026/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-11-18T04:00:00+00:00",
+    "published_date": "2026-11-18T16:14:12.957985+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "a1de396d3910fa2e",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-18T00:00:00+00:00",
+    "published_date": "2026-11-18T16:14:16.130560+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "8f6af8c44a4a1bfb",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-17T17:45:00+00:00",
+    "published_date": "2026-11-18T16:14:18.287574+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "b451aff394adbb42",
+    "title": "Put Gemini to work for you",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-17T17:00:00+00:00",
+    "published_date": "2026-11-18T16:14:19.666727+00:00",
+    "category": "ai_tools"
   }
 ]
