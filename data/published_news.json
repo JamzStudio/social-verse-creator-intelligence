@@ -2491,5 +2491,50 @@
     "publication_date": "2026-11-17T17:00:00+00:00",
     "published_date": "2026-11-18T16:14:19.666727+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "7dca1a67cce53d29",
+    "title": "Meta premieres India’s First Government-Led Microdrama Series on Scams Awareness",
+    "url": "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-19T13:05:53+00:00",
+    "published_date": "2026-11-19T16:22:09.529662+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "ddf115d7813094d0",
+    "title": "Forum, a Dedicated App for Facebook Groups, Is Now Available in Indonesia",
+    "url": "https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-19T06:05:13+00:00",
+    "published_date": "2026-11-19T16:22:11.296093+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "747dbf1590966a75",
+    "title": "Our Approach to Updating Our Commercial Terms of Service",
+    "url": "https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-18T18:01:47+00:00",
+    "published_date": "2026-11-19T16:22:13.150128+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "00a064e6720eae62",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-18T17:00:00+00:00",
+    "published_date": "2026-11-19T16:22:15.220290+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "184d931227f2504d",
+    "title": "The Silent Consensus",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-18T10:00:00+00:00",
+    "published_date": "2026-11-19T16:22:17.185724+00:00",
+    "category": "ai_tools"
   }
 ]
