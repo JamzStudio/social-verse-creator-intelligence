@@ -2536,5 +2536,50 @@
     "publication_date": "2026-11-18T10:00:00+00:00",
     "published_date": "2026-11-19T16:22:17.185724+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "dbc5da3ce8edcab3",
+    "title": "YouTube Creators Win Big at the Inaugural Clio Creator Awards",
+    "url": "https://blog.youtube/news-and-events/youtube-creators-clio-creator-awards-2026/",
+    "source": "YouTube Blog",
+    "publication_date": "2026-11-19T18:00:00+00:00",
+    "published_date": "2026-11-20T15:55:58.334978+00:00",
+    "category": "youtube"
+  },
+  {
+    "id": "1b3aafed7dd5d45c",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-19T18:00:00+00:00",
+    "published_date": "2026-11-20T15:56:00.006325+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "d47c74f9a7ce43a8",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-19T17:00:00+00:00",
+    "published_date": "2026-11-20T15:56:02.755889+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "9342dbf934e428aa",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-19T08:00:00+00:00",
+    "published_date": "2026-11-20T15:56:04.695495+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a890a236270cc5e3",
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-19T00:00:00+00:00",
+    "published_date": "2026-11-20T15:56:07.113237+00:00",
+    "category": "ai_tools"
   }
 ]
