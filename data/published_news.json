@@ -2581,5 +2581,50 @@
     "publication_date": "2026-11-19T00:00:00+00:00",
     "published_date": "2026-11-20T15:56:07.113237+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "7ad44f990f0c53ef",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-20T10:00:00+00:00",
+    "published_date": "2026-11-21T15:07:41.413029+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "8145fefb47ff1ca9",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-20T00:00:00+00:00",
+    "published_date": "2026-11-21T15:07:46.433201+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "c1a2af93db54bfcf",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-20T00:00:00+00:00",
+    "published_date": "2026-11-21T15:07:48.254322+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "82fe289fe466dcc1",
+    "title": "Explore the Codex Security Plugin",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-19T00:00:00+00:00",
+    "published_date": "2026-11-21T15:07:50.326031+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "17b7a2b39f098895",
+    "title": "See PR scans in action",
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-19T00:00:00+00:00",
+    "published_date": "2026-11-21T15:07:53.765951+00:00",
+    "category": "ai_tools"
   }
 ]
