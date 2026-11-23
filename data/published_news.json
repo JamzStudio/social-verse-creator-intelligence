@@ -2626,5 +2626,32 @@
     "publication_date": "2026-11-19T00:00:00+00:00",
     "published_date": "2026-11-21T15:07:53.765951+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "6e178932fb57eaeb",
+    "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+    "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-23T18:00:01+00:00",
+    "published_date": "2026-11-23T19:00:06.079853+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "d6fdac3c20f42b84",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "source": "Google AI Blog",
+    "publication_date": "2026-11-23T17:00:00+00:00",
+    "published_date": "2026-11-23T19:00:07.191930+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "1a10f1676d46fc01",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-22T00:00:00+00:00",
+    "published_date": "2026-11-23T19:00:08.326481+00:00",
+    "category": "ai_tools"
   }
 ]
