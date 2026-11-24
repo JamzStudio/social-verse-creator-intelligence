@@ -2653,5 +2653,50 @@
     "publication_date": "2026-11-22T00:00:00+00:00",
     "published_date": "2026-11-23T19:00:08.326481+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "ca83bfea97701301",
+    "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+    "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-24T06:00:40+00:00",
+    "published_date": "2026-11-24T18:40:40.950739+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "7c62c12f40ccf1d5",
+    "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+    "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/",
+    "source": "Meta Newsroom",
+    "publication_date": "2026-11-24T06:00:04+00:00",
+    "published_date": "2026-11-24T18:40:47.235568+00:00",
+    "category": "instagram_meta"
+  },
+  {
+    "id": "b0689cf87ab570a4",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-23T21:20:00+00:00",
+    "published_date": "2026-11-24T18:40:50.209873+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "10878202550bbbf9",
+    "title": "Connected intelligence for in-house legal",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-23T08:00:00+00:00",
+    "published_date": "2026-11-24T18:40:51.223482+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "1259b534687dd8b3",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-23T08:00:00+00:00",
+    "published_date": "2026-11-24T18:40:54.114572+00:00",
+    "category": "ai_tools"
   }
 ]
