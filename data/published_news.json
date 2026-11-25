@@ -2698,5 +2698,23 @@
     "publication_date": "2026-11-23T08:00:00+00:00",
     "published_date": "2026-11-24T18:40:54.114572+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "7758c04a629331bf",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-24T11:00:00+00:00",
+    "published_date": "2026-11-25T17:51:01.441749+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "7e14b56be6744308",
+    "title": "How Intentful uses dots to make more time for growth",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-24T00:00:00+00:00",
+    "published_date": "2026-11-25T17:51:43.401293+00:00",
+    "category": "ai_tools"
   }
 ]
