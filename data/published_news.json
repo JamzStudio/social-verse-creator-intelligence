@@ -2716,5 +2716,32 @@
     "publication_date": "2026-11-24T00:00:00+00:00",
     "published_date": "2026-11-25T17:51:43.401293+00:00",
     "category": "ai_tools"
+  },
+  {
+    "id": "ac2f786b30f6d457",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-24T13:00:00+00:00",
+    "published_date": "2026-11-26T17:34:21.375002+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "89a905d5eae9fa3e",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-24T00:00:00+00:00",
+    "published_date": "2026-11-26T17:34:23.137455+00:00",
+    "category": "ai_tools"
+  },
+  {
+    "id": "a3c9028eefd69cfd",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "source": "OpenAI News",
+    "publication_date": "2026-11-24T00:00:00+00:00",
+    "published_date": "2026-11-26T17:34:31.686634+00:00",
+    "category": "ai_tools"
   }
 ]
